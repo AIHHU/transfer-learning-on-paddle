@@ -1,0 +1,2 @@
+# transfer-learning-on-paddle
+在paddle静态图模式下，使用cifar10数据集对resnet50模型进行了预训练，接着改变输出层，在flower数据集上进行迁移学习
